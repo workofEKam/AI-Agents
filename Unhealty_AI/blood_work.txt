@@ -1,0 +1,31 @@
+Patient: Rajesh Sharma, Age 48, Male
+Date: May 7, 2026
+
+COMPLETE BLOOD COUNT (CBC)
+--------------------------
+Hemoglobin:        15.1 g/dL        (Normal: 13.5–17.5)
+Hematocrit:        44%              (Normal: 41–53%)
+WBC:               6.8 x10^3/uL     (Normal: 4.5–11.0)
+Platelets:         220 x10^3/uL     (Normal: 150–400)
+
+LIPID PANEL
+-----------
+Total Cholesterol: 238 mg/dL        (Normal: <200)
+LDL Cholesterol:   162 mg/dL        (Normal: <100)
+HDL Cholesterol:   36 mg/dL         (Normal: >40)
+Triglycerides:     188 mg/dL        (Normal: <150)
+
+METABOLIC PANEL
+---------------
+Glucose (Fasting): 92 mg/dL         (Normal: 70–99)
+HbA1c:             5.3%             (Normal: <5.7%)
+Creatinine:        1.0 mg/dL        (Normal: 0.7–1.3)
+eGFR:              82 mL/min        (Normal: >60)
+
+LIVER FUNCTION
+--------------
+ALT:               28 U/L           (Normal: 7–40)
+AST:               25 U/L           (Normal: 10–40)
+Bilirubin Total:   0.8 mg/dL        (Normal: 0.2–1.2)
+
+Reviewing Physician: Dr. Priya Nair
